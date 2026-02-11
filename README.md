@@ -36,7 +36,7 @@ Durante o desenvolvimento, lidei com conceitos importantes como:
 1. Certifique-se de ter o Java instalado em sua máquina.
 2. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/pong-java.git](https://github.com/SEU_USUARIO/pong-java.git)
+   git clone https://github.com/ViniiNogueira/MeuPrimeiroPong-Java.git
 
 
 ## Contato e Feedback
