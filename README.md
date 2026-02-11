@@ -38,6 +38,7 @@ Durante o desenvolvimento, lidei com conceitos importantes como:
    ```bash
    git clone [https://github.com/SEU_USUARIO/pong-java.git](https://github.com/SEU_USUARIO/pong-java.git)
 
-##Contato e Feedback
+
+## Contato e Feedback
 Este projeto faz parte do meu aprendizado contínuo. Aceito críticas construtivas e dicas de melhoria! Se você viu algo que pode ser otimizado no código ou na estrutura, sinta-se à vontade para entrar em contato. Toda ajuda é bem-vinda para o meu crescimento como desenvolvedor.
 Muito Obriagdo!
